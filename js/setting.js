@@ -52,8 +52,11 @@ OpenSpending.Styles.Cofog = {
   '7-5': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#938626' },
   '7-6': { icon: 'icons/schools.svg', color: '#138EC0', bcolor: '#938626' },
   '8': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#C75746' },//公債費
+  '8-1': { icon: 'icons/money.svg', color: '#138EC0', bcolor: '#C75746' },
   '9': { icon: 'icons/order-safety.svg', color: '#138EC0', bcolor: '#D33673' },//諸支出費
+  '9-1': { icon: 'icons/order-safety.svg', color: '#138EC0', bcolor: '#D33673' },
   '10': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' },//予備費
+  '10-1': { icon: 'icons/financial-admin.svg', color: '#138EC0', bcolor: '#790586' },
 };
 
 
