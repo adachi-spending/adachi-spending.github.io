@@ -2,7 +2,7 @@
 
 wheredoesmymoney.orgの足立区バージョンです．
 横浜バージョンに啓発されて作成しました。
-http://chigasaki.spending.jp/ で稼働しているサイトのソースコードです。
+http://adachi.spending.jp/ で稼働しているサイトのソースコードです。
 これからもデータの更新や改善を続けていこうと思いますので、ご意見、ご要望、ご指摘をお願いします。
 
 Team for 足立区
