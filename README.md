@@ -7,6 +7,7 @@ http://adachi.spending.jp/ で稼働しているサイトのソースコード�
 
 Team for 足立区
 鈴木　潤士（Junji Suzuki）, 休日デザイン研究所
+
 七島　偉之（Hideyuki Nanashima）, @jollyjoester
 
 
